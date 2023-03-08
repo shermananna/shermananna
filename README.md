@@ -2,7 +2,7 @@
 hi there, im anna! thanks for stopping by <3
 
 
-Here are some things I'm working on/previously done (somewhat deprecated, check website for updated info):
+Here are some exciting projects I'm working on: 
 
 - 🚀 NASA planetary environments lab intern 
 - 🐝 remote bee monitoring system 
