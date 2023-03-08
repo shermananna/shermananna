@@ -1,16 +1,17 @@
 # astro.anna
 
-hey im anna! thanks for stopping by. find my website here!//
+hey im anna!! thanks for stopping by. find my website here!
 
-Here are some things I'm working on://
 
-🚀 NASA planetary environments lab intern //
-🐝 Remote bee monitoring system 
+Here are some things I'm working on/previously done (somewhat deprecated, check website for updated info):
 
-What I want to learn and get better at://
+- 🚀 NASA planetary environments lab intern 
+- 🐝 Remote bee monitoring system 
 
-🍩 creating animations with blender //
-🗞️ publishing a crossword //
-💻 finishing personal website //
-🔭 using matlab to process data //
-🧠 learn more of the science behind AI/ML!//
+What I want to learn and get better at:
+
+- 🍩 creating animations with blender 
+- 🗞️ publishing a crossword 
+- 💻 finishing personal website 
+- 🔭 using matlab to process data 
+- 🧠 learn more of the science behind AI/ML!
