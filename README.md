@@ -1,5 +1,5 @@
 
-hey im anna!! thanks for stopping by. find my website here!
+hi there, im anna! thanks for stopping by <3
 
 
 Here are some things I'm working on/previously done (somewhat deprecated, check website for updated info):
