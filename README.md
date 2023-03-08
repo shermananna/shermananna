@@ -1,4 +1,3 @@
-# astro.anna
 
 hey im anna!! thanks for stopping by. find my website here!
 
